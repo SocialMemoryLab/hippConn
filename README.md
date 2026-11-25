@@ -1,4 +1,3 @@
 # hippConn
-Exploring the functional organization of the hippocampus
 
-This repo contains code for the study, "Distinct functional organization of language and social cognition in the human hippocampus."
+This repo contains code for the study, "Functional organization of social cognition and language in the human hippocampus."
